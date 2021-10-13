@@ -10,3 +10,8 @@
     <li>Item 5</li>
     <li>Item 6</li>
 </ul>
+
+<ol>
+    <li>item 1</li>
+    <li>Item 2</li>
+</ol>

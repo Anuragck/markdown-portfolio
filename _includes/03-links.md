@@ -1,1 +1,1 @@
-https://anuragck.github.io/AnuragCkResume/
+https://github.com/Anuragck
